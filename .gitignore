@@ -1,1 +1,10 @@
 .vscode/
+.vscode/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entorno virtual de Python (lo crearemos más adelante :) )
+venv/
+.venv/
